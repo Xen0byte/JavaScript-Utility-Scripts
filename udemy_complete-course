@@ -1,5 +1,5 @@
 function expandSections() {
-	var arrows = document.querySelectorAll('span.udi udi-angle-up')
+	var arrows = document.querySelectorAll('span.udi-angle-down')
 	var processedCounter = 0;
 
 	arrows.forEach(function (arrow) {
@@ -15,7 +15,7 @@ function tickCheckboxes() {
 	var processedCounter = 0;
 
 	checkboxes.forEach(function (checkbox) {
-		if (permission.checked == false) {
+		if (checkbox.checked == false) {
 				processedCounter++;
 				checkbox.click();
 			}
