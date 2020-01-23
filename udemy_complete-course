@@ -30,4 +30,4 @@ function completeCourse() {
 	tickCheckboxes();
 }
 
-// to be used on https://www.udemy.com/course/*/learn/lecture/
+// to be used on https://www.udemy.com/course/*/learn/lecture/*
