@@ -70,4 +70,4 @@ function undenyAll()
     console.log(processedCounter + " permission out of " + permDeny.length + " have been un-denied");
 }
 
-// To be used on https://*.meddbase.com/nmp.aspx?cp=Certificate/DefaultBrowser
+// to be used on https://*.meddbase.com/nmp.aspx?cp=Certificate/DefaultBrowser
