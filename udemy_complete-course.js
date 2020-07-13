@@ -31,3 +31,4 @@ function completeCourse() {
 }
 
 // to be used on https://www.udemy.com/course/*/learn/lecture/*
+// author: Xen0byte, The Opcodemancer
